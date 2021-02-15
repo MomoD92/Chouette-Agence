@@ -45,7 +45,7 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important
+    outline: none/*!important*/
 }
 
 a:hover {
@@ -132,10 +132,13 @@ a:hover {
 .bg-tr-edge,
 .bg-br-edge,
 .bg-repeat {
-    -webkit-background-size: auto!important;
-    -moz-background-size: auto!important;
-    -o-background-size: auto!important;
-    background-size: auto!important
+    -webkit-background-size: auto/*!important*/
+    ;
+    -moz-background-size: auto/*!important*/
+    ;
+    -o-background-size: auto/*!important*/
+    ;
+    background-size: auto/*!important*/
 }
 
 .bg-repeat {
@@ -404,7 +407,7 @@ a:hover {
 }
 
 .navbar-toggle:hover {
-    background: transparent!important
+    background: transparent/*!important*/
 }
 
 .navbar-toggle .icon-bar {
@@ -444,7 +447,7 @@ a:hover {
 }
 
 .title-fb {
-    border-bottom: 2px solid #f3976c!important
+    border-bottom: 2px solid #f3976c/*!important*/
 }
 
 @media(min-width:768px) {
@@ -489,7 +492,8 @@ a:hover {
 }
 
 .nav.dropdown a {
-    background: none!important;
+    background: none/*!important*/
+    ;
     display: block;
     padding: 14px 15px
 }
@@ -516,7 +520,8 @@ nav .caret {
     border-top-color: transparent;
     border-right-color: transparent;
     border-bottom-color: transparent;
-    margin: 6px -5px 0 0!important;
+    margin: 6px -5px 0 0/*!important*/
+    ;
     float: right
 }
 
@@ -548,7 +553,7 @@ nav .caret {
 }
 
 button {
-    outline: none!important
+    outline: none/*!important*/
 }
 
 .btn-rd {
@@ -563,11 +568,11 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important
+    font-size: 30px/*!important*/
 }
 
 .icon-lg {
-    font-size: 60px!important
+    font-size: 60px/*!important*/
 }
 
 .sm-shadow {
@@ -738,7 +743,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important
+    color: #575757/*!important*/
 }
 
 .container {
@@ -785,7 +790,8 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #fff!important;
+    color: #fff/*!important*/
+    ;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 15px;
@@ -806,7 +812,7 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333!important
+    color: #333/*!important*/
 }
 
 .med-width-whitespace {
@@ -816,11 +822,11 @@ h3 {
 }
 
 h1 {
-    color: #333!important
+    color: #333/*!important*/
 }
 
 h4 {
-    color: #333!important
+    color: #333/*!important*/
 }
 
 .icons {
@@ -829,7 +835,7 @@ h4 {
 }
 
 .white {
-    color: #fff!important
+    color: #fff/*!important*/
 }
 
 .portfolio-thumb {
@@ -853,7 +859,7 @@ h4 {
 
 .bold-link {
     font-weight: 900;
-    text-decoration: underline!important
+    text-decoration: underline/*!important*/
 }
 
 .bgc-white {
@@ -869,38 +875,40 @@ h4 {
 }
 
 .tc-white {
-    color: #f3976c!important
+    color: #f3976c/*!important*/
 }
 
 .btn-atomic-tangerine {
     background: #f3976c;
-    color: #fff!important
+    color: #fff/*!important*/
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #fff!important
+    background: #c27956/*!important*/
+    ;
+    color: #fff/*!important*/
 }
 
 .ltc-white {
-    color: #fff!important
+    color: #fff/*!important*/
 }
 
 .ltc-white:hover {
-    color: #ccc!important
+    color: #ccc/*!important*/
 }
 
 .ltc-atomic-tangerine {
-    color: #f3976c!important
+    color: #f3976c/*!important*/
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important
+    color: #c27956/*!important*/
 }
 
 .icon-dark-slate-blue {
-    color: #364577!important;
-    border-color: #364577!important
+    color: #364577/*!important*/
+    ;
+    border-color: #364577/*!important*/
 }
 
 .bg-banniere {
@@ -988,8 +996,9 @@ h4 {
     h6,
     p,
     #disqus_thread {
-        padding-left: 10px!important;
-        padding-right: 10px!important
+        padding-left: 10px/*!important*/
+        ;
+        padding-right: 10px/*!important*/
     }
     .b-parallax {
         background-attachment: scroll
@@ -997,7 +1006,7 @@ h4 {
     .navbar .nav {
         padding-top: 0;
         border-top: 1px solid rgba(0, 0, 0, .2);
-        float: none!important
+        float: none/*!important*/
     }
     .navbar.row {
         margin-left: 0;
@@ -1011,7 +1020,8 @@ h4 {
     }
     .dropdown .dropdown a .caret {
         float: none;
-        margin: 5px 0 0 10px!important;
+        margin: 5px 0 0 10px/*!important*/
+        ;
         border: 4px solid black;
         border-bottom-color: transparent;
         border-right-color: transparent;
