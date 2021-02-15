@@ -4,6 +4,7 @@
     src: url(https://momod92.github.io/Chouette-Agence/css/fonts/et-line.eot?#iefix) format('embedded-opentype'), url(https://momod92.github.io/Chouette-Agence/css/fonts/et-line.svg#et-line) format('svg');
     font-weight: 400;
     font-style: normal;
+    font-display: wrap
 }
 
 .et-icon-browser,
@@ -17,7 +18,8 @@
     line-height: 1;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    display: inline-block
+    display: inline-block;
+    font-display: wrap;
 }
 
 .et-icon-browser:before {
