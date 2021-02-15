@@ -118,7 +118,8 @@
     display: inline-block
 }
 
-.et-icon-mobile:before {
+
+/*.et-icon-mobile:before {
     content: "\e000"
 }
 
@@ -516,4 +517,4 @@
 
 .et-icon-dribbble:before {
     content: "\e063"
-}
+}*/

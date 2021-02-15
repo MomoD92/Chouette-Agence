@@ -172,6 +172,8 @@ a:hover {
     color: rgba(255, 255, 255, .7)
 }
 
+
+/*
 .d-bloc button:hover {
     color: rgba(255, 255, 255, .9)
 }
@@ -186,7 +188,7 @@ a:hover {
 
 .d-bloc .divider-h span {
     border-color: rgba(255, 255, 255, .2)
-}
+}*/
 
 .d-bloc .a-btn,
 .d-bloc .navbar a,
@@ -222,6 +224,8 @@ a:hover {
     color: rgba(255, 255, 255, 1)
 }
 
+
+/*
 .d-bloc .navbar-toggle .icon-bar {
     background: rgba(255, 255, 255, 1)
 }
@@ -230,12 +234,14 @@ a:hover {
 .d-bloc .btn-wire:hover {
     color: rgba(255, 255, 255, 1);
     border-color: rgba(255, 255, 255, 1)
-}
+}*/
 
 .d-bloc .panel {
     color: rgba(0, 0, 0, .5)
 }
 
+
+/*
 .d-bloc .panel button:hover {
     color: rgba(0, 0, 0, .7)
 }
@@ -247,6 +253,7 @@ a:hover {
 .d-bloc .panel .divider-h span {
     border-color: rgba(0, 0, 0, .1)
 }
+*/
 
 .d-bloc .panel .a-btn {
     color: rgba(0, 0, 0, .6)
@@ -256,11 +263,13 @@ a:hover {
     color: rgba(0, 0, 0, 1)
 }
 
+
+/*
 .d-bloc .panel .btn-wire,
 .d-bloc .panel .btn-wire:hover {
     color: rgba(0, 0, 0, .7);
     border-color: rgba(0, 0, 0, .3)
-}
+}*/
 
 .d-bloc .panel,
 .l-bloc {
@@ -272,6 +281,8 @@ a:hover {
     color: rgba(0, 0, 0, .7)
 }
 
+
+/*
 .l-bloc .icon-round,
 .l-bloc .icon-square,
 .l-bloc .icon-rounded,
@@ -284,6 +295,7 @@ a:hover {
 .l-bloc .divider-h span {
     border-color: rgba(0, 0, 0, .1)
 }
+*/
 
 .d-bloc .panel .a-btn,
 .l-bloc .a-btn,
@@ -325,13 +337,15 @@ a:hover {
     color: rgba(0, 0, 0, .6)
 }
 
+
+/*
 .d-bloc .panel .btn-wire,
 .d-bloc .panel .btn-wire:hover,
 .l-bloc .btn-wire,
 .l-bloc .btn-wire:hover {
     color: rgba(0, 0, 0, .7);
     border-color: rgba(0, 0, 0, .3)
-}
+}*/
 
 .voffset {
     margin-top: 30px
@@ -380,9 +394,11 @@ a:hover {
     min-width: 100px
 }
 
+
+/*
 .nav-center .navbar-brand img {
     margin: 0
-}
+}*/
 
 .navbar .nav {
     padding-top: 2px;
@@ -466,7 +482,7 @@ a:hover {
         left: 0;
         right: 0
     }
-    .nav-center {
+    /* .nav-center {
         text-align: center
     }
     .nav-center .navbar-header {
@@ -488,7 +504,7 @@ a:hover {
     .nav-center.mini-nav .navbar-toggle {
         float: none;
         margin: 10px auto 0
-    }
+    }*/
 }
 
 .nav.dropdown a {
@@ -498,9 +514,10 @@ a:hover {
     padding: 14px 15px
 }
 
-nav .caret {
+
+/*nav .caret {
     margin: 0 5px
-}
+}*/
 
 .dropdown-menu .dropdown-menu {
     top: -8px;
@@ -541,9 +558,10 @@ nav .caret {
     margin: 0 5px 5px 0
 }
 
-.btn.pull-right {
+
+/*.btn.pull-right {
     margin: 0 0 5px 5px
-}
+}*/
 
 .btn-d,
 .btn-d:hover,
@@ -579,7 +597,8 @@ button {
     text-shadow: 0 1px 2px rgba(0, 0, 0, .3)
 }
 
-.panel-sq,
+
+/*.panel-sq,
 .panel-sq .panel-heading,
 .panel-sq .panel-footer {
     border-radius: 0
@@ -588,6 +607,7 @@ button {
 .panel-rd {
     border-radius: 30px
 }
+*/
 
 .panel-rd .panel-heading {
     border-radius: 29px 29px 0 0
