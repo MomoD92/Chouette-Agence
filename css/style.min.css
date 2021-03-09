@@ -395,13 +395,17 @@ button {
     text-shadow: 0 1px 2px rgba(0, 0, 0, .3)
 }
 
+.bloc-button {
+    color: white;
+}
+
 .scrollToTop {
     width: 40px;
     height: 40px;
     position: fixed;
     bottom: 20px;
     right: 20px;
-    opacity: 0;
+    opacity: 1;
     z-index: 500;
     transition: all .3s ease-in-out
 }
@@ -510,7 +514,8 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto
+    margin: auto auto auto auto;
+    font-size: xx-large;
 }
 
 h2 {
